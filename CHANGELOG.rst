@@ -2,6 +2,11 @@
 Changelog for package pyros_utils
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.1 (2016-06-02)
+------------------
+* using renamed dependency catkin_pip
+* Contributors: alexv
+
 0.1.0 (2016-06-01)
 ------------------
 * now using shadow-fixed ros packages for travis test build
