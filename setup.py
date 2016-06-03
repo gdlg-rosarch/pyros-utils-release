@@ -6,7 +6,7 @@ with open('pyros_utils/_version.py') as vf:
     exec(vf.read())
 
 setup(name='pyros_utils',
-    version='0.1.0',
+    version=__version__,
     description='This is a ROS package, providing useful ROS addons for pyros.',
     url='http://github.com/asmodehn/pyros-utils',
     author='AlexV',
