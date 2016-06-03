@@ -2,6 +2,12 @@
 Changelog for package pyros_utils
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2016-06-03)
+------------------
+* fixing travis file to check multiple distros.
+* fixing python package version not matching catkin package version.
+* Contributors: alexv
+
 0.1.1 (2016-06-02)
 ------------------
 * using renamed dependency catkin_pip
