@@ -1,0 +1,29 @@
+ros-jade-pyros-utils (0.1.2-0vivid) vivid; urgency=high
+
+  * fixing travis file to check multiple distros.
+  * fixing python package version not matching catkin package version.
+  * Contributors: alexv
+
+ -- AlexV <asmodehn@gmail.com>  Thu, 02 Jun 2016 15:00:00 -0000
+
+ros-jade-pyros-utils (0.1.1-0vivid) vivid; urgency=high
+
+  * using renamed dependency catkin_pip
+  * Contributors: alexv
+
+ -- AlexV <asmodehn@gmail.com>  Wed, 01 Jun 2016 15:00:00 -0000
+
+ros-jade-pyros-utils (0.1.0-0vivid) vivid; urgency=high
+
+  * now using shadow-fixed ros packages for travis test build
+  * cleanup.
+  * fixing tests
+  * fixing cmakelists and setup.py. removed requirements.txt
+  * cleaning up README, removed ros_utils since this is a pure ROS package, like pyros-test
+  * fixing __init__ imports. added travis.yml.
+  * extracted code from pyros-setup
+  * Contributors: AlexV, alexv
+
+ -- AlexV <asmodehn@gmail.com>  Tue, 31 May 2016 15:00:00 -0000
+
+
