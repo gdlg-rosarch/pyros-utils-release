@@ -1,3 +1,26 @@
+## pyros_utils (jade) - 0.1.3-0
+
+The packages in the `pyros_utils` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade pyros_utils` on `Wed, 11 Jan 2017 04:25:59 -0000`
+
+The `pyros_utils` package was released.
+
+Version of package(s) in repository `pyros_utils`:
+
+- upstream repository: https://github.com/asmodehn/pyros-utils.git
+- release repository: https://github.com/asmodehn/pyros-utils-release.git
+- rosdistro version: `0.1.2-0`
+- old version: `0.1.2-0`
+- new version: `0.1.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## pyros_utils (indigo) - 0.1.3-0
 
 The packages in the `pyros_utils` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo pyros_utils` on `Thu, 22 Dec 2016 09:53:41 -0000`
