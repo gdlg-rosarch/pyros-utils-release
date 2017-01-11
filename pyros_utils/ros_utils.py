@@ -35,5 +35,6 @@ def get_master(spawn=True):
     return master, roscore_process
 
 
+# this is already defined in rospkg...
 def get_ros_home():
     return os.environ.get('ROS_HOME', os.path.join(os.environ['HOME'], '.ros'))
