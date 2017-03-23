@@ -2,6 +2,11 @@
 Changelog for package pyros_utils
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.4 (2017-03-21)
+------------------
+* catkin > 0.2
+* Contributors: alexv
+
 0.1.3 (2016-12-22)
 ------------------
 * adding trick to patch import behavior from rospy generated __init_\_ relay.
