@@ -1,0 +1,12 @@
+Source: ros-lunar-pyros-utils
+Section: misc
+Priority: extra
+Maintainer: AlexV <asmodehn@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin (>= 0.6.18), ros-lunar-catkin-pip (>= 0.2.0), ros-lunar-pyros-test (>= 0.0.3), ros-lunar-rosgraph (>= 1.11.19), ros-lunar-roslaunch (>= 1.11.19), ros-lunar-roslint (>= 0.10.0), ros-lunar-rosnode (>= 1.11.19), ros-lunar-rospy (>= 1.11.19), ros-lunar-rostest (>= 1.11.19), ros-lunar-rosunit (>= 1.11.12)
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-lunar-pyros-utils
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-rosgraph (>= 1.11.19), ros-lunar-roslaunch (>= 1.11.19), ros-lunar-rospy (>= 1.11.19), ros-lunar-rostest (>= 1.11.19)
+Description: Miscellaneous tools for pyROS
