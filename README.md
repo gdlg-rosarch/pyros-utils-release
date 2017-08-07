@@ -1,3 +1,26 @@
+## pyros_utils (lunar) - 0.1.4-0
+
+The packages in the `pyros_utils` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar pyros_utils --edit` on `Mon, 07 Aug 2017 01:11:46 -0000`
+
+The `pyros_utils` package was released.
+
+Version of package(s) in repository `pyros_utils`:
+
+- upstream repository: https://github.com/pyros-dev/pyros-utils.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.5`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## pyros_utils (indigo) - 0.1.4-0
 
 The packages in the `pyros_utils` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo pyros_utils` on `Thu, 23 Mar 2017 09:21:31 -0000`
